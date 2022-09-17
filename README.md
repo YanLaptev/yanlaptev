@@ -3,4 +3,4 @@
 <h1>Hi. My name Yan.</h1>
 
 I been programming more 5 years. My favorite programming languages:
-<ul> <li>Microsoft</li>   <li>Google</li>   <li>Apple</li>   <li>IBM</li>  </ul>
+<ul> <li>C#</li> <li>C++</li> <li>Python</li> <li>Web:HTML,CSS,JS</li> </ul>

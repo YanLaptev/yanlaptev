@@ -4,3 +4,4 @@
 
 I been programming more 5 years. My favorite programming languages:
 <ul> <li>C#</li> <li>C++</li> <li>Python</li> <li>Web: HTML,CSS,JS</li> </ul>
+<button type="submit">Отправить форму 1</button>
